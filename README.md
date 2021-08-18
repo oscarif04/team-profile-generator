@@ -1,7 +1,7 @@
 
   # Team Profile Generator
 
-  https://youtu.be/idsN3tEMkk8
+  [WATCH DEMO HERE](https://youtu.be/idsN3tEMkk8)
 
   ## Description
 
