@@ -1,9 +1,7 @@
 
   # Team Profile Generator
 
-  renderLicenseBadge()
-  renderLicenseLink()
-  renderLicenseSection()
+  https://youtu.be/idsN3tEMkk8
 
   ## Description
 
